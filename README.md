@@ -1,2 +1,2 @@
 # DSC180A-Methodology-4
-zhj003@ucsd.edu
+Zhixing Jiang and Lohit Geddam
